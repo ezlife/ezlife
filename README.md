@@ -78,14 +78,22 @@ ghost@void ~ % ls -la skills/
 
 <div align="center">
 
+```zsh
+ghost@void ~ % ./contribution_graph --all
+```
+
+```
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁  0 events
+contribution graph intentionally left blank
+[404] trace not found — by design
+```
+
 <a href="https://github.com/ezlife">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ezlife&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats"/>
-</a>
-<a href="https://github.com/ezlife">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezlife&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" alt="langs"/>
+  <img width="390" src="https://streak-stats.demolab.com?user=ezlife&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555" alt="streak"/>
 </a>
 
 <!-- contribution graph: intentionally left blank. no trace left behind. -->
+
 
 <a href="https://github.com/ezlife"><img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="arch"/></a>
 <a href="https://github.com/ezlife"><img src="https://img.shields.io/badge/editor-vim-019833?style=flat-square&logo=vim&logoColor=white" alt="vim"/></a>
